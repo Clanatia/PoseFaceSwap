@@ -6,7 +6,8 @@ You will find a short presentation the program's capabilities in the video below
 [![click to go to YouTube](http://img.youtube.com/vi/yZRuSsyxvos/0.jpg)](http://www.youtube.com/watch?v=yZRuSsyxvos)
 
 ## How to use it ##
-To start the program you will have to run a file named zad2.py (Polish for exercise 2), which will require:
+To start the program you will have to run a file named openpose_face.py (Polish for exercise 2), which will require:
+  * CUDA 8.0 or 9.0
   * Python 2.7, 3.5 (I recommend Anaconda)
   * OpenCV (I used 2.4.13, Anaconda : pip install -c menpo opencv3)
   * Numpy
@@ -15,7 +16,6 @@ To start the program you will have to run a file named zad2.py (Polish for exerc
 
 You can download all of the libraries above either from PIP or from Christoph Gohlke's excellent website: http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
-You will also have to download the face alignment model from here: http://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2 and unpack it to the main project directory.
 
 ## How it works ##
 The general outline of the method is as follows:
