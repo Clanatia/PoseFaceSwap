@@ -17,8 +17,8 @@ To start the program you will have to run a file named openpose_face.py (Polish 
 # Model Download #
  http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/body_25/pose_iter_584000.caffemodel
  http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/coco/pose_iter_440000.caffemodel
- http://posefs1.perception.cs.cmu.edu/OpenPose/models/face/pose_iter_160000.caffemodel
- http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_116000.caffemodel
+ http://posefs1.perception.cs.cmu.edu/OpenPose/models/face/pose_iter_116000.caffemodel
+ http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_160000.caffemodel
 
 You can download all of the libraries above either from PIP or from Christoph Gohlke's excellent website: http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
