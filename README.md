@@ -10,6 +10,8 @@ You will find a short presentation the program's capabilities in the video below
 
 ## How to use it ##
 To start the program you will have to run a file named openpose_face.py (Polish for exercise 2), which will require:
+  * 64bit
+  * need GPU
   * CUDA 8.0 or 9.0
   * Python 2.7, 3.5 (I recommend Anaconda)
   * OpenCV (I used 2.4.13, Anaconda : pip install -c menpo opencv3)
