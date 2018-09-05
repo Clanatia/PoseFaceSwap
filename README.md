@@ -5,6 +5,9 @@ The app is written in Python and uses face alignment, Gauss Newton optimization 
 You will find a short presentation the program's capabilities in the video below (click to go to YouTube):
 [![click to go to YouTube](http://img.youtube.com/vi/yZRuSsyxvos/0.jpg)](http://www.youtube.com/watch?v=yZRuSsyxvos)
 
+# Pose Estimation #
+ https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
+
 ## How to use it ##
 To start the program you will have to run a file named openpose_face.py (Polish for exercise 2), which will require:
   * CUDA 8.0 or 9.0
