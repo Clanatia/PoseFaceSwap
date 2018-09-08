@@ -6,7 +6,7 @@ You will find a short presentation the program's capabilities in the video below
 [![click to go to YouTube](http://img.youtube.com/vi/yZRuSsyxvos/0.jpg)](http://www.youtube.com/watch?v=yZRuSsyxvos)
 
 # Pose Estimation #
- https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
+ [Origin site](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
 ## How to use it ##
 To start the program you will have to run a file named openpose_face.py (Polish for exercise 2), which will require:
@@ -20,12 +20,12 @@ To start the program you will have to run a file named openpose_face.py (Polish 
   * PyOpenGL
 
 # Model Download #
- http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/body_25/pose_iter_584000.caffemodel
- http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/coco/pose_iter_440000.caffemodel
- http://posefs1.perception.cs.cmu.edu/OpenPose/models/face/pose_iter_116000.caffemodel
- http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_160000.caffemodel
+ [body Model](http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/body_25/pose_iter_584000.caffemodel)
+ [coco body Model](http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/coco/pose_iter_440000.caffemodel)
+ [face Model](http://posefs1.perception.cs.cmu.edu/OpenPose/models/face/pose_iter_116000.caffemodel)
+ [hand Model](http://posefs1.perception.cs.cmu.edu/OpenPose/models/hand/pose_iter_160000.caffemodel)
 
-You can download all of the libraries above either from PIP or from Christoph Gohlke's excellent website: http://www.lfd.uci.edu/~gohlke/pythonlibs/
+You can download all of the libraries above either from PIP or from Christoph Gohlke's excellent [website]( http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 
 ## How it works ##
