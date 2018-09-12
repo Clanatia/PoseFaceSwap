@@ -9,7 +9,7 @@ The app is written in Python and uses face alignment, Gauss Newton optimization 
 
 You will find a short presentation the program's capabilities in the video below (click to go to YouTube):
 video : 
-[![Watch the video](http://img.youtube.com/vi/yZRuSsyxvos/0.jpg)](https://youtu.be/Qz42lsVxS4c)
+[![Watch the video](https://github.com/Clanatia/PoseFaceSwap/blob/master/data/view.png)](https://youtu.be/Qz42lsVxS4c)
 
 ## How to use it ##
 To start the program you will have to run a file named openpose_face.py (Polish for exercise 2), which will require:
