@@ -312,7 +312,7 @@ if __name__ == "__main__":
         if key == ord('r'):
             if writer is None:
                 print("Starting video writer")
-                writer = cv2.VideoWriter("../out.avi", cv2.cv.CV_FOURCC('X', 'V', 'I', 'D'), 25, (cameraImg.shape[1], cameraImg.shape[0]))
+                writer = cv2.VideoWriter("../out.avi", cv2.VideoWriter_fourcc(*'XVID'), 25, (cameraImg.shape[1], cameraImg.shape[0]))
 
                 if writer.isOpened():
                     print( "Writer succesfully opened")
