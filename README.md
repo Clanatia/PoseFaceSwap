@@ -23,6 +23,8 @@ To start the program you will have to run a file named openpose_face.py (Polish 
   * PyOpenGL
 
 # Model Download #
+ [Multi Scale Model      : models/pose/Multi_Scale](https://drive.google.com/open?id=1RgqPvFu8M8boJ8trP1BTLBsmn7sIXMar)
+
  [Body Model      : models/pose/body_25](http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/body_25/pose_iter_584000.caffemodel)
  
  [Coco body Model : models/pose/coco](http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/coco/pose_iter_440000.caffemodel)
